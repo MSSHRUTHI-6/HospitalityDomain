@@ -7,7 +7,7 @@ The project uses Excel as the data source and visualizes insights through Power 
 Key Metrics and KPIs:
 
 
-   **1.**  _[Dashboard](https://github.com/MSSHRUTHI-6/excel_sales_data_analysis/blob/main/pnlmarket.pdf)_
+   **1.**  _[Dashboard](https://github.com/MSSHRUTHI-6/HospitalityDomain/blob/main/Hospitality%20Dashboard.JPG)_
 
 Occupancy Rate:
 
