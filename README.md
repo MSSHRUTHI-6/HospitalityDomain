@@ -9,6 +9,7 @@ Key Metrics and KPIs:
 
    **1.**  _[Dashboard](https://github.com/MSSHRUTHI-6/HospitalityDomain/blob/main/Hospitality%20Dashboard.JPG)_
    **2.**  _[Insights and Recommendations](https://github.com/MSSHRUTHI-6/HospitalityDomain/blob/main/Business%20Insights%20on%20Hospiutality%20Domain.pdf)_
+  **3.**  _[Live Dashboard)(https://app.powerbi.com/view?r=eyJrIjoiYTY3YWE4MTMtOTYwMC00MTNmLWJmMjEtYTZjNmVlYWQwMTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 Occupancy Rate:
 
